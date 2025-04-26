@@ -30,4 +30,6 @@ func main() {
 		}
 		fmt.Println((n))
 	}
+
+	for z := range [10]float
 }
